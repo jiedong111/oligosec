@@ -23,4 +23,12 @@ func main() {
 	//check for complements in every oligo
 	//compute all combinations of complements down order of the tree
 	//check oligos against database of dangerous dna strands
-}
+	
+ }
+
+ func oligoComb(oligo string) []string {
+	for i := 0; i < len(oligo); i++ {
+		
+	}
+	return nil
+ }
